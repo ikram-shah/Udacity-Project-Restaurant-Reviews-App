@@ -13,4 +13,4 @@ Note - For Windows systems, Python 3.x is installed as python by default. To sta
 
 - With your server running, visit the site: `http://localhost:8000` and look around for a bit to see what the current experience looks like.
 
-*Followed the Udacity CSS Style Guide, HTML Style Guide, JavaScript Style Guide & Git Style Guide
+*Followed the Udacity CSS Style Guide, HTML Style Guide, JavaScript Style Guide & Git Style Guide*
